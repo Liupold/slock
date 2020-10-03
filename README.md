@@ -7,6 +7,7 @@ Features
 
 * xrdb support (`pywal`)
 * custom message. (Font:`Fire Code`)
+* Display Power Management Signaling (2sec)
 
 Requirements
 ------------
