@@ -1,7 +1,12 @@
-slock - simple screen locker
+slock - simple screen locker (liupold's build)
 ============================
 simple screen locker utility for X.
 
+Features
+------------
+
+* xrdb support (`pywal`)
+* custom message. (Font:`Fire Code`)
 
 Requirements
 ------------
