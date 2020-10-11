@@ -29,7 +29,7 @@ static const char * text_color = "#ffffff";
 static const char * font_name = "-misc-fira code retina-medium-r-normal--0-0-0-0-m-0-iso8859-16";
 
 /* time in seconds before the monitor shuts down */
-static const int monitortime = 2;
+static const int monitortime = 5;
 
 /* treat a cleared input like a wrong password (color) */
 static const int failonclear = 1;
