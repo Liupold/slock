@@ -19,6 +19,8 @@ Installation
 Edit config.mk to match your local setup (slock is installed into
 the /usr/local namespace by default).
 
+## change user, group name.
+
 Afterwards enter the following command to build and install slock
 (if necessary as root):
 
